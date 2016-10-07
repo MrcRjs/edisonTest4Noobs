@@ -1,0 +1,25 @@
+{
+  "name": "edison-test-4-noobs",
+  "version": "1.0.0",
+  "description": "Testing edison with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrcRjs/edisonTest4Noobs.git"
+  },
+  "keywords": [
+    "edison",
+    "intel",
+    "IOT",
+    "microcontrollers"
+  ],
+  "author": "Marco A. Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrcRjs/edisonTest4Noobs/issues"
+  },
+  "homepage": "https://github.com/MrcRjs/edisonTest4Noobs#readme"
+}
